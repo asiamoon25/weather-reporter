@@ -39,8 +39,6 @@ out/
 src/main/resources/application.yml
 *.env
 
-LatLonList.xlsx
-API.pdf
 API.docx
 
 frontend/node_modules/
