@@ -1,7 +1,7 @@
 # Weather Reporter
 
 실시간 날씨 정보를 제공하는 웹 애플리케이션입니다. GPS 좌표나 지역명을 통해 현재 날씨와 예보를 확인할 수 있습니다.
-
+![img.png](img.png)
 ## 기술 스택
 
 ### Backend
