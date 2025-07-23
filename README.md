@@ -85,6 +85,10 @@ weather:
       key: your_weather_api_key
 ```
 
+API 키는 https://www.data.go.kr/tcs/dss/selectApiDataDetailView.do?publicDataPk=15084084 이 사이트에서 사용신청 한 후에 key 에 넣고 사용하시면 됩니다.
+
+.env 파일 생성 후 application-prod.yml 에 있는 환경변수를 채워주시면 됩니다.
+
 ### 4. 백엔드 실행
 ```bash
 ./gradlew bootRun
